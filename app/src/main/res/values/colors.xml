@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C0CA33</color>
+    <color name="colorPrimaryDark">#7CB342</color>
+    <color name="colorAccent">#F04106</color>
+    <color name="texto">#0F0F0F</color>
+    <color name ="emergência">#C51C1C</color>
+    <color name ="muito_urgente">#EC6940</color>
+    <color name ="urgente">#E0B44F</color>
+    <color name ="pouco_urgente">#358A39</color>
+    <color name ="nao_urgente">#1DA9EE</color>
+</resources>

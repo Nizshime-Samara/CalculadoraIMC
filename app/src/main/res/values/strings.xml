@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="descrição_titulo">Calcule seu índice de massa corporal e descubra se você está em seu peso ideal.</string>
+    <string name="peso_hint">digite seu peso</string>
+    <string name="altura_hint">digite sua altura</string>
+    <string name="diagnostico">Então...</string>
+
+</resources>
+
